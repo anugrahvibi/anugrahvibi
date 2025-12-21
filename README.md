@@ -105,6 +105,6 @@
 ⭐ *“Build systems that think — and systems that move.”*
 
 
-![Anugrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Anugrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahvibi&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=anugrahvibi&theme=tokyonight)
 
