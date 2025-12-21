@@ -105,8 +105,7 @@
 ⭐ *“Build systems that think — and systems that move.”*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anugrahvibi&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=anugrahvibi&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anugrahvibi&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=anugrahvibi&theme=tokyonight" height="165"/>
 </p>
-
 
