@@ -1,14 +1,14 @@
 # Hey, I'm Anugrah 👋
 
 
-**AI security · model behavior · autonomous systems**  
+**AI security · model internals · autonomous systems**  
 Computer Science Engineering · CCE
 
 
 I study how models fail and build tools to make those failures easier to detect, reproduce, and understand.
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://anugrahvibi.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrah-vibi-270371384) [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anugrahvibi07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://anugrahvibi.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahvibi/) [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anugrahvibi07@gmail.com)
 
 
 ---
